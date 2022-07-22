@@ -2,7 +2,6 @@
 
 int main()
 {
-	printf("Olá, alunos de PPC !\n");
+	printf("Olá Novo !\n");
 	return 0;
 }
-	
